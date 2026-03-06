@@ -7,6 +7,15 @@ Styra is designed with scalability, clean architecture, and real-world productio
 
 [![Live Site](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://styra-tau.vercel.app)
 
+## Project Screenshots
+<p align="center">
+  <img src="./styra-home.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="./styra-products.jpeg" width="800"/>
+</p>
+
 ---
 
 ## Features Overview
